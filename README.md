@@ -33,3 +33,7 @@
 <h1 align="left">OS:</h1>
 
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
+
+<h1 align="left">Codewars profile: </h1>
+
+<a href="https://www.codewars.com/users/fla1ddy">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>
