@@ -30,7 +30,7 @@
 
 <h1 align="left">OS:</h1>
 
-![Arch Linux]((https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white))
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 <h1 align="left">Codewars profile: </h1>
 
